@@ -6,5 +6,5 @@ import (
 
 func main() {
 
-	fmt.Print("let us start\n")
+	fmt.Print("let us start!\n")
 }
